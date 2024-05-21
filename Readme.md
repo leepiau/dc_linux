@@ -1,7 +1,6 @@
 ﻿# Datacamp Project - The History of Linux
 
 ## 1. Introduction
-Tux - the Linux mascot
 
 Version control repositories like CVS, Subversion or Git can be a real gold mine for software developers. They contain every change to the source code including the date (the "when"), the responsible developer (the "who"), as well as a little message that describes the intention (the "what") of a change.
 
